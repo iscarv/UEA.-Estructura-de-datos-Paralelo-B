@@ -6,4 +6,5 @@
 **Carrera:** Ingeniería en Tecnologías de la Información. 
 
 **Docente:** Mgs. Edgar Nieto Zambrano
+
 **Nombre:** Isca Madaí Ortiz Sabando.
