@@ -1,0 +1,15 @@
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\obj\Debug\net9.0\Tarea Semana 6 (Ejercicio 1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\obj\Debug\net9.0\Tarea Semana 6 (Ejercicio 1).AssemblyInfoInputs.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\obj\Debug\net9.0\Tarea Semana 6 (Ejercicio 1).AssemblyInfo.cs
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\obj\Debug\net9.0\Tarea Semana 6 (Ejercicio 1).csproj.CoreCompileInputs.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\obj\Debug\net9.0\Tarea Semana 6 (Ejercicio 1).sourcelink.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\bin\Debug\net9.0\Tarea Semana 6 (Ejercicio 1).exe
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\bin\Debug\net9.0\Tarea Semana 6 (Ejercicio 1).deps.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\bin\Debug\net9.0\Tarea Semana 6 (Ejercicio 1).runtimeconfig.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\bin\Debug\net9.0\Tarea Semana 6 (Ejercicio 1).dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\bin\Debug\net9.0\Tarea Semana 6 (Ejercicio 1).pdb
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\obj\Debug\net9.0\Tarea Semana 6 (Ejercicio 1).dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\obj\Debug\net9.0\refint\Tarea Semana 6 (Ejercicio 1).dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\obj\Debug\net9.0\Tarea Semana 6 (Ejercicio 1).pdb
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\obj\Debug\net9.0\Tarea Semana 6 (Ejercicio 1).genruntimeconfig.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Tarea Semana 6 (Ejercicio 1)\obj\Debug\net9.0\ref\Tarea Semana 6 (Ejercicio 1).dll
