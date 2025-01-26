@@ -1,0 +1,15 @@
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\bin\Debug\net9.0\Arraysmatrices.exe
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\bin\Debug\net9.0\Arraysmatrices.deps.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\bin\Debug\net9.0\Arraysmatrices.runtimeconfig.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\bin\Debug\net9.0\Arraysmatrices.dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\bin\Debug\net9.0\Arraysmatrices.pdb
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\obj\Debug\net9.0\Arraysmatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\obj\Debug\net9.0\Arraysmatrices.AssemblyInfoInputs.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\obj\Debug\net9.0\Arraysmatrices.AssemblyInfo.cs
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\obj\Debug\net9.0\Arraysmatrices.csproj.CoreCompileInputs.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\obj\Debug\net9.0\Arraysmatrices.sourcelink.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\obj\Debug\net9.0\Arraysmatrices.dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\obj\Debug\net9.0\refint\Arraysmatrices.dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\obj\Debug\net9.0\Arraysmatrices.pdb
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\obj\Debug\net9.0\Arraysmatrices.genruntimeconfig.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Arraysmatrices\obj\Debug\net9.0\ref\Arraysmatrices.dll

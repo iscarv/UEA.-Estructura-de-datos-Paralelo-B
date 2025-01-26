@@ -1,0 +1,15 @@
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\bin\Debug\net9.0\Datosprimitivos.exe
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\bin\Debug\net9.0\Datosprimitivos.deps.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\bin\Debug\net9.0\Datosprimitivos.runtimeconfig.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\bin\Debug\net9.0\Datosprimitivos.dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\bin\Debug\net9.0\Datosprimitivos.pdb
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\obj\Debug\net9.0\Datosprimitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\obj\Debug\net9.0\Datosprimitivos.AssemblyInfoInputs.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\obj\Debug\net9.0\Datosprimitivos.AssemblyInfo.cs
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\obj\Debug\net9.0\Datosprimitivos.csproj.CoreCompileInputs.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\obj\Debug\net9.0\Datosprimitivos.sourcelink.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\obj\Debug\net9.0\Datosprimitivos.dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\obj\Debug\net9.0\refint\Datosprimitivos.dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\obj\Debug\net9.0\Datosprimitivos.pdb
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\obj\Debug\net9.0\Datosprimitivos.genruntimeconfig.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Datosprimitivos\obj\Debug\net9.0\ref\Datosprimitivos.dll

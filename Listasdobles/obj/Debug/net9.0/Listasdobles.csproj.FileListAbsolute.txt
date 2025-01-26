@@ -1,0 +1,15 @@
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\bin\Debug\net9.0\Listasdobles.exe
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\bin\Debug\net9.0\Listasdobles.deps.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\bin\Debug\net9.0\Listasdobles.runtimeconfig.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\bin\Debug\net9.0\Listasdobles.dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\bin\Debug\net9.0\Listasdobles.pdb
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\obj\Debug\net9.0\Listasdobles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\obj\Debug\net9.0\Listasdobles.AssemblyInfoInputs.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\obj\Debug\net9.0\Listasdobles.AssemblyInfo.cs
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\obj\Debug\net9.0\Listasdobles.csproj.CoreCompileInputs.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\obj\Debug\net9.0\Listasdobles.sourcelink.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\obj\Debug\net9.0\Listasdobles.dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\obj\Debug\net9.0\refint\Listasdobles.dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\obj\Debug\net9.0\Listasdobles.pdb
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\obj\Debug\net9.0\Listasdobles.genruntimeconfig.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Listasdobles\obj\Debug\net9.0\ref\Listasdobles.dll

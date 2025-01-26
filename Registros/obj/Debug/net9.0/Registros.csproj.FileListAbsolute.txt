@@ -1,0 +1,15 @@
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\bin\Debug\net9.0\Registros.exe
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\bin\Debug\net9.0\Registros.deps.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\bin\Debug\net9.0\Registros.runtimeconfig.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\bin\Debug\net9.0\Registros.dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\bin\Debug\net9.0\Registros.pdb
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\obj\Debug\net9.0\Registros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\obj\Debug\net9.0\Registros.AssemblyInfoInputs.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\obj\Debug\net9.0\Registros.AssemblyInfo.cs
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\obj\Debug\net9.0\Registros.csproj.CoreCompileInputs.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\obj\Debug\net9.0\Registros.sourcelink.json
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\obj\Debug\net9.0\Registros.dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\obj\Debug\net9.0\refint\Registros.dll
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\obj\Debug\net9.0\Registros.pdb
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\obj\Debug\net9.0\Registros.genruntimeconfig.cache
+C:\Users\COMPU FACIL\Documents\Universidad tercer semestre\Estructura de datos C#\UEA.-Estructura-de-datos-Paralelo-B\Registros\obj\Debug\net9.0\ref\Registros.dll

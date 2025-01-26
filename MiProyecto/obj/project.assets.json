@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\COMPU FACIL\\Documents\\Universidad tercer semestre\\Estructura de datos C#\\UEA.-Estructura-de-datos-Paralelo-B\\MiProyecto\\Program1.csproj",
-      "projectName": "Program1",
-      "projectPath": "C:\\Users\\COMPU FACIL\\Documents\\Universidad tercer semestre\\Estructura de datos C#\\UEA.-Estructura-de-datos-Paralelo-B\\MiProyecto\\Program1.csproj",
+      "projectUniqueName": "C:\\Users\\COMPU FACIL\\Documents\\Universidad tercer semestre\\Estructura de datos C#\\UEA.-Estructura-de-datos-Paralelo-B\\MiProyecto\\MiProyecto.csproj",
+      "projectName": "MiProyecto",
+      "projectPath": "C:\\Users\\COMPU FACIL\\Documents\\Universidad tercer semestre\\Estructura de datos C#\\UEA.-Estructura-de-datos-Paralelo-B\\MiProyecto\\MiProyecto.csproj",
       "packagesPath": "C:\\Users\\COMPU FACIL\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\COMPU FACIL\\Documents\\Universidad tercer semestre\\Estructura de datos C#\\UEA.-Estructura-de-datos-Paralelo-B\\MiProyecto\\obj\\",
       "projectStyle": "PackageReference",
