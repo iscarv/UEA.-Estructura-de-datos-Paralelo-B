@@ -99,7 +99,7 @@ class Programa
     {
         Grafo grafo = new Grafo();
 
-        // Creamos el grafo con los siguientes nombres:
+        // Se crea el grafo con los siguientes nombres:
         // Luna, Jorge, Felipe, Mercedes, Lorenzo
 
         // Relaciones de amistad o conexiones:
